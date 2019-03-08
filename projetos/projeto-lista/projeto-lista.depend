@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1551990960 source:/Users/andersonlima/Desenvolvimento/estrutura-dados-nassau/projetos/projeto-lista/ListaSequencial.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencial.h"
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencial.h"
+
+1551990709 encial.h"
+
+1551991009 /Users/andersonlima/Desenvolvimento/estrutura-dados-nassau/projetos/projeto-lista/ListaSequencial.h
+
+1551990709 source:/Users/andersonlima/Desenvolvimento/estrutura-dados-nassau/projetos/projeto-lista/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListaSequencial.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListaSequencial.h"
+
+1551147983 source:\\mac\home\desenvolvimento\estrutura-dados-nassau\projetos\projeto-lista\listasequencial.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencial.h"
+
+1551147640 \\mac\home\desenvolvimento\estrutura-dados-nassau\projetos\projeto-lista\listasequencial.h
+
+1551271969 source:\\mac\home\desenvolvimento\estrutura-dados-nassau\projetos\projeto-lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListaSequencial.h"
+
+1551990960 source:z:\desenvolvimento\estrutura-dados-nassau\projetos\projeto-lista\listasequencial.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencial.h"
+
+1551991009 z:\desenvolvimento\estrutura-dados-nassau\projetos\projeto-lista\listasequencial.h
+
+1551990709 source:z:\desenvolvimento\estrutura-dados-nassau\projetos\projeto-lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ListaSequencial.h"
+
+1551998158 source:/Users/andersonlima/Desenvolvimento/estrutura-dados-nassau/projetos/projeto-lista/ListaSequencial.c
+	<stdio.h>
+	<stdlib.h>
+	"ListaSequencial.h"
+
+1551991009 /Users/andersonlima/Desenvolvimento/estrutura-dados-nassau/projetos/projeto-lista/ListaSequencial.h
+
