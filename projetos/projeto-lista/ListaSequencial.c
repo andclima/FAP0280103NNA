@@ -57,32 +57,3 @@ int insere_lista_final(Lista* li, struct aluno info) {
     return 1;
 }
 
-void imprime_lista(Lista* li) {
-    printf("\n\n");
-
-    if (li == NULL) {
-        printf("Lista nao existe!\n");
-        return;
-    }
-
-    if (li->qtd == 0) {
-        printf("Lista vazia!\n");
-        return;
-    }
-
-    printf("==================================================\n");
-    printf("CONTEUDO DA LISTA SEQUENCIAL ESTATICA \n");
-    printf("--------------------------------------------------\n");
-    for (int i = 0; i < li->qtd; i++) {
-        printf("POS %d ->| %d %s %.1f %.1f %.1f |<- \n",
-               i,
-               li->dados[i].matricula,
-               li->dados[i].nome,
-               li->dados[i].n1,
-               li->dados[i].n2,
-               li->dados[i].n3);
-    }
-    printf("--------------------------------------------------\n");
-    printf("Tamanho: %d \n", li->qtd);
-    printf("--------------------------------------------------\n");
-}

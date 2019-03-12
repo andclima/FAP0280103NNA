@@ -32,5 +32,3 @@ int lista_cheia(Lista* li);
 int lista_vazia(Lista* li);
 
 
-// Impressao da lista
-void imprime_lista(Lista* li);
